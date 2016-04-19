@@ -90,6 +90,9 @@ ul, menu, dir {
     padding: 10px 0;
     
 }
+.navbar {
+	margin-bottom: 0;
+}
 .navbar-fixed-bottom, .navbar-fixed-top {
     position: fixed;
     right: 0;
